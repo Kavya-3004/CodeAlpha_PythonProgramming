@@ -1,0 +1,6 @@
+Stock Portfolio Report
+----------------------
+Stock: INFOSYS
+Quantity: 6
+Price per share: 1500
+Total Value: 9000

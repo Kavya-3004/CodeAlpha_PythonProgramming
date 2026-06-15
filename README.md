@@ -1,29 +1,37 @@
-# Basic Chatbot
+# Stock Portfolio Tracker
 
-A simple rule-based chatbot built using Python.
+A simple Python project that calculates the value of a stock portfolio and saves the report to a text file.
 
 ## Features
-- Responds to greetings
-- Answers basic questions
-- Runs continuously until the user types "bye"
-- Handles unknown inputs
+
+* Stores stock prices using a dictionary
+* Accepts stock name and quantity from the user
+* Calculates total portfolio value
+* Handles invalid stock names
+* Saves portfolio details to a text file
 
 ## Technologies Used
-- Python 3
+
+* Python 3
 
 ## How to Run
 
 ```bash
-python chatbot.py
+python stock_tracker.py
+```
 
-## Sample Inputs
-- hello
-- how are you
-- what is your name
-- thank you
-- good morning
-- good night
-- bye
+## Sample Stocks
+
+* TCS
+* Infosys
+* Wipro
+
+## Output
+
+The program generates a file named:
+
+portfolio_report.txt
 
 ## Author
+
 Kavya
