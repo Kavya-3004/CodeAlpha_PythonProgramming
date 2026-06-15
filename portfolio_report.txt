@@ -1,6 +1,6 @@
 Stock Portfolio Report
 ----------------------
-Stock: INFOSYS
-Quantity: 6
-Price per share: 1500
-Total Value: 9000
+Stock: TCS
+Quantity: 5
+Price per share: 3500
+Total Value: 17500
