@@ -1,6 +1,0 @@
-Stock Portfolio Report
-----------------------
-Stock: TCS
-Quantity: 5
-Price per share: 3500
-Total Value: 17500
