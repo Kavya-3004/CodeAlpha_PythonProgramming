@@ -1,30 +1,27 @@
-# Hangman Game
+# CodeAlpha Python Programming Internship
 
-A simple Hangman Game built using Python.
+This repository contains the projects completed as part of the CodeAlpha Python Programming Internship.
 
-## Features
+## Projects
 
-* Random word selection
-* Letter guessing
-* Correct and wrong guess detection
-* Handles repeated letters
-* Win condition
-* Quit option
+### 1. Basic Chatbot
+
+A simple chatbot built using Python that responds to user inputs using conditional statements.
+
+### 2. Stock Portfolio Tracker
+
+A Python application that calculates portfolio value based on stock holdings and generates a report file.
+
+### 3. Hangman Game
+
+A Python-based Hangman game featuring random word selection, letter guessing, repeated letter handling, and win detection.
 
 ## Technologies Used
 
 * Python
+* GitHub
 
-## How to Run
+## Author
 
-```bash
-python hangman.py
-```
+Kavya
 
-## Sample Words
-
-* python
-* coding
-* game
-* computer
-* program
