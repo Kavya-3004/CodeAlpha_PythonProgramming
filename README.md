@@ -1,37 +1,30 @@
-# Stock Portfolio Tracker
+# Hangman Game
 
-A simple Python project that calculates the value of a stock portfolio and saves the report to a text file.
+A simple Hangman Game built using Python.
 
 ## Features
 
-* Stores stock prices using a dictionary
-* Accepts stock name and quantity from the user
-* Calculates total portfolio value
-* Handles invalid stock names
-* Saves portfolio details to a text file
+* Random word selection
+* Letter guessing
+* Correct and wrong guess detection
+* Handles repeated letters
+* Win condition
+* Quit option
 
 ## Technologies Used
 
-* Python 3
+* Python
 
 ## How to Run
 
 ```bash
-python stock_tracker.py
+python hangman.py
 ```
 
-## Sample Stocks
+## Sample Words
 
-* TCS
-* Infosys
-* Wipro
-
-## Output
-
-The program generates a file named:
-
-portfolio_report.txt
-
-## Author
-
-Kavya
+* python
+* coding
+* game
+* computer
+* program
